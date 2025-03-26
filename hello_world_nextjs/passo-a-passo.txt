@@ -1,0 +1,7 @@
+# criar uma database ;
+# criar uma tabela;
+# inserir dados na tabela;
+# se necessario mudar a conexão com o banco no teste.js e
+  colocar o nome da sua database e o nome da sua tabela;
+# npm i -------> para instalar as dependencias;
+# npm run dev -> para rodar o localhost na porta 3000;
